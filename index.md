@@ -16,7 +16,7 @@ Im always open to collaborating with others who share a similar vision for makin
 |         |   CBSE Class XII | 2023 | 90.4% |
 | Malaviya National Institute of Technology (MNIT) Jaipur   | BTech CSE | 2027 | CGPA 6.48 |
 ---
-
+![mnit](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9d3Gl5fLrHYnAYPH3e6NkdmQaHiCGiCl6Iw&s)
 ## Interests
 - Programming using C/C++ and Python
 - Frontend Web Development
